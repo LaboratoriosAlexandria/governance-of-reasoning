@@ -17,6 +17,7 @@ This repository serves as cryptographic proof of authorship and integrity for th
 
 - **SHA-256:** `ba2d4b05b462c5c38ebda07fb6af13c9db12d948f20f25bd5860cd498e730037`
 - **GPG Key:** `2F64C96872BC3ABD73CF40FB4A07EDFE63EFC1A4`
+- **DOI:** [10.5281/zenodo.21269581](https://doi.org/10.5281/zenodo.21269581)
 
 ## Where to Read
 

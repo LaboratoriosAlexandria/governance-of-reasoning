@@ -24,6 +24,7 @@
 | **GPG Fingerprint** | `2F64 C968 72BC 3ABD 73CF 40FB 4A07 EDFE 63EF C1A4` |
 | **Key Owner** | Javier Albuixech Carrascosa <contacto@laboratoriosalexandria.com> |
 | **ORCID** | [0009-0005-1218-0701](https://orcid.org/0009-0005-1218-0701) |
+| **DOI** | [10.5281/zenodo.21269581](https://doi.org/10.5281/zenodo.21269581) |
 
 ## How to Verify
 
