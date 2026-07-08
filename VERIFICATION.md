@@ -19,7 +19,7 @@
 
 | Field | Value |
 |-------|-------|
-| **SHA-256** | `ba2d4b05b462c5c38ebda07fb6af13c9db12d948f20f25bd5860cd498e730037` |
+| **SHA-256** | `7c0bd32662abd35092c9b4c9f468842c0ec1f7a4b9795daf236447cb3924c356` |
 | **GPG Key ID** | `4A07EDFE63EFC1A4` |
 | **GPG Fingerprint** | `2F64 C968 72BC 3ABD 73CF 40FB 4A07 EDFE 63EF C1A4` |
 | **Key Owner** | Javier Albuixech Carrascosa <contacto@laboratoriosalexandria.com> |

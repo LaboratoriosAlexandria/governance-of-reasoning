@@ -15,7 +15,7 @@ This book formalizes Epistemic Engineering as a new discipline — a systematic 
 
 This repository serves as cryptographic proof of authorship and integrity for the first edition. See [VERIFICATION.md](VERIFICATION.md) for full details.
 
-- **SHA-256:** `ba2d4b05b462c5c38ebda07fb6af13c9db12d948f20f25bd5860cd498e730037`
+- **SHA-256:** `7c0bd32662abd35092c9b4c9f468842c0ec1f7a4b9795daf236447cb3924c356`
 - **GPG Key:** `2F64C96872BC3ABD73CF40FB4A07EDFE63EFC1A4`
 - **DOI:** [10.5281/zenodo.21269581](https://doi.org/10.5281/zenodo.21269581)
 
